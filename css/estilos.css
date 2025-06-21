@@ -1,4 +1,6 @@
 .grande { font-size: 60px; }
 body {
 	background-color:#00F;
+	font-weight:bold;
+	color:#F00;
 }
